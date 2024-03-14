@@ -1,1 +1,272 @@
-[{"_id":"65f1ae43a42287823731b593","index":0,"guid":"82d10c44-c67a-4b38-bb8c-472723d6d16d","isActive":false,"balance":"$3,924.35","picture":"http://placehold.it/32x32","age":37,"eyeColor":"green","name":"Amalia Garrett","gender":"female","company":"CUJO","email":"amaliagarrett@cujo.com","phone":"+1 (908) 431-2967","address":"704 Baycliff Terrace, Brule, Missouri, 5088","about":"Minim do velit dolor officia ut aute ex commodo amet veniam officia. Fugiat magna excepteur adipisicing aliquip est velit mollit deserunt officia ad adipisicing adipisicing. Cupidatat cillum consectetur mollit amet ea. Ea ipsum id eiusmod esse officia id excepteur dolor. Occaecat ea officia aute qui consectetur ad irure fugiat incididunt nostrud aute ex laboris nisi. Labore duis culpa officia duis.\r\n","registered":"2021-08-03T06:33:45 -07:00","latitude":-37.026487,"longitude":-129.929131,"tags":["eiusmod","elit","est","sit","incididunt","nisi","consectetur"],"friends":[{"id":0,"name":"Patrice Hess"},{"id":1,"name":"Tamera Herman"},{"id":2,"name":"Rosie Hebert"}],"greeting":"Hello, Amalia Garrett! You have 9 unread messages.","favoriteFruit":"banana"},{"_id":"65f1ae43e34855868491a996","index":1,"guid":"0bfccb1f-607d-49c7-a3fc-38fbaf18beff","isActive":true,"balance":"$3,148.73","picture":"http://placehold.it/32x32","age":24,"eyeColor":"brown","name":"Kim Klein","gender":"female","company":"AQUASSEUR","email":"kimklein@aquasseur.com","phone":"+1 (920) 555-3962","address":"385 Crawford Avenue, Wanship, Palau, 218","about":"Elit eiusmod voluptate laborum ut. Lorem tempor do est ullamco et dolore aute non elit cillum. Fugiat enim id pariatur aliquip commodo irure elit proident nulla esse ullamco cillum enim. Ea commodo consequat non ipsum ad labore labore velit. Consequat laboris irure eiusmod ut pariatur aute labore aliquip mollit culpa. Aliquip aliqua non dolor culpa tempor ipsum nostrud occaecat laborum laboris ut exercitation.\r\n","registered":"2016-02-19T03:02:01 -07:00","latitude":12.465079,"longitude":101.915678,"tags":["amet","aliquip","pariatur","in","amet","non","minim"],"friends":[{"id":0,"name":"Lewis Schwartz"},{"id":1,"name":"Leigh Henry"},{"id":2,"name":"Suarez Franco"}],"greeting":"Hello, Kim Klein! You have 7 unread messages.","favoriteFruit":"apple"},{"_id":"65f1ae43393f9640f621053b","index":2,"guid":"06fb185f-5f6e-4979-aa46-136680732c68","isActive":false,"balance":"$2,103.91","picture":"http://placehold.it/32x32","age":30,"eyeColor":"brown","name":"Mattie Hewitt","gender":"female","company":"SHOPABOUT","email":"mattiehewitt@shopabout.com","phone":"+1 (876) 488-2959","address":"260 Meserole Avenue, Basye, Puerto Rico, 4502","about":"Dolore aliquip eiusmod ut sunt excepteur culpa qui laborum id. Elit deserunt consequat adipisicing tempor incididunt esse irure esse id laborum labore laboris fugiat. Cupidatat cupidatat anim adipisicing irure ut laboris nostrud anim in. Proident qui nulla nostrud do nulla mollit deserunt fugiat esse excepteur incididunt exercitation aliquip. Eiusmod Lorem dolor culpa et nulla nostrud sunt pariatur.\r\n","registered":"2022-10-03T05:49:27 -07:00","latitude":-14.158192,"longitude":-32.214968,"tags":["adipisicing","consectetur","ea","aliquip","ipsum","mollit","ut"],"friends":[{"id":0,"name":"Guy Hughes"},{"id":1,"name":"Zamora Cooper"},{"id":2,"name":"Santiago Walters"}],"greeting":"Hello, Mattie Hewitt! You have 7 unread messages.","favoriteFruit":"apple"},{"_id":"65f1ae43d1c6b40e2cf8870a","index":3,"guid":"9b30da0a-d30d-4d73-9b01-b79cbbe461da","isActive":false,"balance":"$3,576.22","picture":"http://placehold.it/32x32","age":24,"eyeColor":"brown","name":"Bates Kerr","gender":"male","company":"COMFIRM","email":"bateskerr@comfirm.com","phone":"+1 (811) 581-3564","address":"275 Scott Avenue, Chapin, New Mexico, 7420","about":"Voluptate dolore dolore deserunt voluptate enim sint eiusmod nostrud ad nostrud magna. Consequat fugiat labore velit est ullamco incididunt. Amet adipisicing velit ut tempor mollit voluptate laboris anim cillum labore ex anim ullamco. Veniam quis nisi dolore cillum sint ut qui nisi ut deserunt mollit anim veniam. Tempor Lorem aute deserunt adipisicing sit labore ex eu aliqua est dolor eiusmod. Est excepteur cupidatat aliqua sint mollit consequat dolore consectetur.\r\n","registered":"2014-01-08T09:22:02 -07:00","latitude":-35.058138,"longitude":-179.180005,"tags":["eu","proident","dolor","ad","aliqua","adipisicing","veniam"],"friends":[{"id":0,"name":"Nita Walls"},{"id":1,"name":"Evangeline Valenzuela"},{"id":2,"name":"Benson Trujillo"}],"greeting":"Hello, Bates Kerr! You have 10 unread messages.","favoriteFruit":"banana"},{"_id":"65f1ae43e6428eabb26c1e7c","index":4,"guid":"84b27db7-920b-44f2-8abf-9fc37b8e487b","isActive":false,"balance":"$1,202.83","picture":"http://placehold.it/32x32","age":20,"eyeColor":"blue","name":"Roman Frazier","gender":"male","company":"SNORUS","email":"romanfrazier@snorus.com","phone":"+1 (946) 596-3408","address":"399 Jerome Avenue, Loyalhanna, Nebraska, 9764","about":"Eu cupidatat culpa quis fugiat in excepteur sunt reprehenderit. Ad excepteur officia Lorem adipisicing in ex voluptate sit quis. Veniam elit est occaecat cupidatat do aute velit. Tempor magna labore pariatur elit ea ad enim officia ex eu. Id labore dolor commodo sit esse esse nulla eu reprehenderit. Amet tempor aute sit excepteur incididunt amet ea mollit ipsum pariatur. Veniam esse est enim elit voluptate elit irure dolore fugiat ut sunt tempor.\r\n","registered":"2018-07-22T03:52:30 -07:00","latitude":-32.897406,"longitude":89.10949,"tags":["magna","pariatur","commodo","id","velit","veniam","excepteur"],"friends":[{"id":0,"name":"Smith Garcia"},{"id":1,"name":"Nichols Robertson"},{"id":2,"name":"Hall Reynolds"}],"greeting":"Hello, Roman Frazier! You have 9 unread messages.","favoriteFruit":"strawberry"},{"name":"fira","status":"mahasiswa"},{"name":"fira","status":"mahasiswa"}]
+[
+    {
+      "_id": "65f31b8897653590e716fba2",
+      "index": 0,
+      "guid": "1066a356-3f2f-4e90-9038-717dfd264643",
+      "isActive": true,
+      "balance": "$3,929.00",
+      "picture": "http://placehold.it/32x32",
+      "age": 23,
+      "eyeColor": "green",
+      "name": "Massey Burnett",
+      "gender": "male",
+      "company": "CAPSCREEN",
+      "email": "masseyburnett@capscreen.com",
+      "phone": "+1 (919) 546-3562",
+      "address": "282 Aitken Place, Sussex, North Dakota, 288",
+      "about": "Nostrud consequat eiusmod reprehenderit sit labore veniam officia officia veniam officia enim minim dolor ex. Non pariatur esse in proident magna excepteur consequat sint exercitation amet. Dolore labore in aute do nostrud sit enim ullamco ea. Consequat commodo dolore sint sit fugiat nostrud culpa. Deserunt est exercitation labore Lorem anim aliqua.\r\n",
+      "registered": "2018-03-01T06:45:30 -07:00",
+      "latitude": -84.657269,
+      "longitude": -138.730744,
+      "tags": [
+        "est",
+        "voluptate",
+        "ex",
+        "adipisicing",
+        "eiusmod",
+        "fugiat",
+        "consequat"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Armstrong Knight"
+        },
+        {
+          "id": 1,
+          "name": "Rush Garcia"
+        },
+        {
+          "id": 2,
+          "name": "Gay Ray"
+        }
+      ],
+      "greeting": "Hello, Massey Burnett! You have 3 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "65f31b88d82d133e97a01b23",
+      "index": 1,
+      "guid": "b9d197bc-e6e0-4b4e-99e1-a8a72c05db08",
+      "isActive": true,
+      "balance": "$3,013.43",
+      "picture": "http://placehold.it/32x32",
+      "age": 38,
+      "eyeColor": "brown",
+      "name": "Amanda Cantu",
+      "gender": "female",
+      "company": "ISOSPHERE",
+      "email": "amandacantu@isosphere.com",
+      "phone": "+1 (984) 542-2226",
+      "address": "388 Regent Place, Soham, Colorado, 2382",
+      "about": "Tempor eu pariatur laborum ea dolor anim occaecat nulla occaecat do consectetur tempor amet. Irure sint amet nostrud voluptate eiusmod aliquip qui pariatur fugiat sunt eu veniam adipisicing ullamco. Est sunt ad sunt cillum elit. Dolore eiusmod est irure eiusmod eiusmod nulla. Minim esse ad duis pariatur fugiat qui. Ullamco laboris anim eu duis mollit eu excepteur ullamco enim excepteur exercitation nulla cillum ex.\r\n",
+      "registered": "2020-03-27T03:14:29 -07:00",
+      "latitude": 31.757362,
+      "longitude": -148.666601,
+      "tags": [
+        "mollit",
+        "aliqua",
+        "ullamco",
+        "qui",
+        "nulla",
+        "mollit",
+        "id"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Kennedy Sharpe"
+        },
+        {
+          "id": 1,
+          "name": "Kirby Houston"
+        },
+        {
+          "id": 2,
+          "name": "Holloway Cabrera"
+        }
+      ],
+      "greeting": "Hello, Amanda Cantu! You have 2 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "65f31b8832b824f8be31344d",
+      "index": 2,
+      "guid": "b69042c6-1b71-4e26-b9ab-8a3bc9541a2f",
+      "isActive": false,
+      "balance": "$1,696.16",
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "green",
+      "name": "Stuart Wiley",
+      "gender": "male",
+      "company": "MEDICROIX",
+      "email": "stuartwiley@medicroix.com",
+      "phone": "+1 (953) 539-2355",
+      "address": "558 Columbia Place, Remington, West Virginia, 2100",
+      "about": "Aliquip eu minim culpa commodo anim culpa nisi id id ad nisi. Ut laborum occaecat ea ipsum Lorem eu aliquip ut amet deserunt cillum exercitation. Exercitation fugiat aliqua officia enim. Dolore sint cupidatat laboris culpa ipsum occaecat fugiat sunt minim. Duis fugiat laboris ut velit do laborum id irure irure deserunt adipisicing voluptate magna.\r\n",
+      "registered": "2015-01-04T07:06:57 -07:00",
+      "latitude": 19.893003,
+      "longitude": -174.180745,
+      "tags": [
+        "laborum",
+        "tempor",
+        "non",
+        "sit",
+        "do",
+        "ea",
+        "magna"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Shelley Klein"
+        },
+        {
+          "id": 1,
+          "name": "Rodriguez Donaldson"
+        },
+        {
+          "id": 2,
+          "name": "Lauri Barber"
+        }
+      ],
+      "greeting": "Hello, Stuart Wiley! You have 3 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "65f31b88fa11d6003e2ab5ff",
+      "index": 3,
+      "guid": "7346c9ea-2507-4b5c-9c87-2ceaa4d26201",
+      "isActive": false,
+      "balance": "$1,814.18",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "eyeColor": "blue",
+      "name": "Webster Barrera",
+      "gender": "male",
+      "company": "ISOPLEX",
+      "email": "websterbarrera@isoplex.com",
+      "phone": "+1 (860) 462-2344",
+      "address": "145 Lake Place, Lindcove, Kentucky, 8829",
+      "about": "Nostrud fugiat do mollit sint officia anim cillum et cillum aliqua laboris culpa. Velit nulla cillum enim in laboris magna Lorem aute proident dolor elit mollit. Eiusmod proident in mollit adipisicing. Duis pariatur labore amet aliqua aliquip anim et aliqua laboris excepteur veniam dolor tempor sit. Veniam pariatur ex duis velit id cillum do ullamco dolore veniam. Non sit quis nostrud amet sunt. Ad exercitation adipisicing amet ullamco deserunt ipsum labore aliqua qui labore officia velit duis pariatur.\r\n",
+      "registered": "2020-01-24T04:11:38 -07:00",
+      "latitude": -88.732188,
+      "longitude": 69.870049,
+      "tags": [
+        "id",
+        "labore",
+        "elit",
+        "ex",
+        "proident",
+        "sit",
+        "quis"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Justine Tanner"
+        },
+        {
+          "id": 1,
+          "name": "Cooke Buchanan"
+        },
+        {
+          "id": 2,
+          "name": "Taylor Yates"
+        }
+      ],
+      "greeting": "Hello, Webster Barrera! You have 5 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "65f31b88d92ba33aac650080",
+      "index": 4,
+      "guid": "17b4c1bc-7b96-4c9f-b249-ec5c1eacfd7f",
+      "isActive": true,
+      "balance": "$3,801.61",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "eyeColor": "blue",
+      "name": "Sherri Mack",
+      "gender": "female",
+      "company": "ZOARERE",
+      "email": "sherrimack@zoarere.com",
+      "phone": "+1 (954) 435-3513",
+      "address": "916 Pine Street, Balm, Louisiana, 1653",
+      "about": "In culpa voluptate ad exercitation elit minim non consectetur enim officia incididunt proident officia reprehenderit. Sunt elit culpa in aute et dolore sint non laboris ullamco veniam. Excepteur commodo est id fugiat voluptate. Lorem elit enim elit qui aute deserunt amet in. Ut veniam eiusmod ut nostrud nisi sint laborum amet tempor labore Lorem quis aliquip.\r\n",
+      "registered": "2023-05-11T10:29:17 -07:00",
+      "latitude": 47.358373,
+      "longitude": 33.575538,
+      "tags": [
+        "tempor",
+        "adipisicing",
+        "consequat",
+        "cillum",
+        "velit",
+        "aliquip",
+        "amet"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Dina Carey"
+        },
+        {
+          "id": 1,
+          "name": "Mamie Jarvis"
+        },
+        {
+          "id": 2,
+          "name": "Roxie Vance"
+        }
+      ],
+      "greeting": "Hello, Sherri Mack! You have 9 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "65f31b88ac980182f0ad0863",
+      "index": 5,
+      "guid": "9cb25dfa-3910-4964-8e34-5e4d740a188b",
+      "isActive": false,
+      "balance": "$2,911.37",
+      "picture": "http://placehold.it/32x32",
+      "age": 37,
+      "eyeColor": "brown",
+      "name": "Ford Weiss",
+      "gender": "male",
+      "company": "POOCHIES",
+      "email": "fordweiss@poochies.com",
+      "phone": "+1 (979) 423-3038",
+      "address": "666 Ira Court, Rew, Washington, 7542",
+      "about": "Ullamco consectetur adipisicing excepteur ullamco. Do nostrud amet mollit consequat nulla labore duis irure laborum nostrud exercitation qui consectetur ipsum. Exercitation aliquip pariatur irure cupidatat deserunt laboris exercitation occaecat pariatur aliquip velit do pariatur ex. Cupidatat quis labore ullamco eu nulla sit duis reprehenderit esse in occaecat cillum incididunt aute. Consequat dolore id occaecat sit deserunt deserunt aute fugiat proident Lorem duis duis.\r\n",
+      "registered": "2020-06-04T06:09:49 -07:00",
+      "latitude": 48.848352,
+      "longitude": 119.324213,
+      "tags": [
+        "excepteur",
+        "dolor",
+        "anim",
+        "quis",
+        "ullamco",
+        "veniam",
+        "eiusmod"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Fox Golden"
+        },
+        {
+          "id": 1,
+          "name": "Benjamin Dudley"
+        },
+        {
+          "id": 2,
+          "name": "Howard Hancock"
+        }
+      ],
+      "greeting": "Hello, Ford Weiss! You have 6 unread messages.",
+      "favoriteFruit": "banana"
+    }
+  ]
